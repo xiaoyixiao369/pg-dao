@@ -5,6 +5,8 @@
 
 ## 特性
 * 支持实体ID自增长
+* 逻辑删除
+* 自动维护`createdDate`、`updatedDate`和`delFlag`字段
 * 常用`CRUD`操作
 * 支持条件查询及分页
 
