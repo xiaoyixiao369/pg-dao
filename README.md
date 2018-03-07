@@ -1,5 +1,5 @@
 ## PG-DAO
-> A simple Data Access tool which wpped [apache commons-dbutils](http://commons.apache.org/proper/commons-dbutils/) for PostgreSQL.
+> A simple Data Access tool which wrapped [apache commons-dbutils](http://commons.apache.org/proper/commons-dbutils/) for PostgreSQL.
 
 [pg-dao github](https://github.com/igordonxiao/pg-dao)
 
